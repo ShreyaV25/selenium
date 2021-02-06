@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18718" started-at="2021-02-05T16:47:26 IST" finished-at="2021-02-05T16:47:45 IST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="16414" started-at="2021-02-05T16:47:26 IST" finished-at="2021-02-05T16:47:43 IST">
+      <class name="Demo.testngDemo.qsp.DemoCross">
+        <test-method status="PASS" signature="TC1(java.lang.String)[pri:0, instance:Demo.testngDemo.qsp.DemoCross@2d6eabae]" name="TC1" duration-ms="16337" started-at="2021-02-05T16:47:26 IST" finished-at="2021-02-05T16:47:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- Demo.testngDemo.qsp.DemoCross -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="18718" started-at="2021-02-05T16:47:26 IST" finished-at="2021-02-05T16:47:45 IST">
+      <class name="Demo.testngDemo.qsp.DemoCross">
+        <test-method status="PASS" signature="TC1(java.lang.String)[pri:0, instance:Demo.testngDemo.qsp.DemoCross@32709393]" name="TC1" duration-ms="18655" started-at="2021-02-05T16:47:26 IST" finished-at="2021-02-05T16:47:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- Demo.testngDemo.qsp.DemoCross -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
